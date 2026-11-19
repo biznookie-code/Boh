@@ -15,6 +15,8 @@ Obiettivo dell'utente: plusvalenze su azioni singole, compensabili con le minusv
 - **AAPL – Apple (USA).** 352,45 $ il 18/11: +13% in 3 mesi, +31% in un anno; media 20gg 347,7, media 50gg 341,2; massimo 360,83. Ingresso A, ritracciamento: 347-350 $ (circa 316-318 EUR). Ingresso B, rottura: chiusura sopra 361 $ (circa 328 EUR). Stop 335 $ (circa 305 EUR). Obiettivo 375 $ (circa 341 EUR), poi 390 $.
 - **V – Visa (USA).** 415,22 $ il 18/11: +13,5% in 3 mesi; media 20gg 417,8, media 50gg 393,3; massimo 442,23; titolo lento (ATR 2,4%). Ingresso preferito: 393-395 $ (circa 357-359 EUR), con stop 380 $ (circa 345 EUR) e obiettivo 442 $ (circa 402 EUR). In alternativa ingresso ora a circa 415 $ (377 EUR), stop 390 $ (355 EUR), obiettivo 465 $ (423 EUR).
 
+- **AMZN – Amazon (USA).** 267,74 $ il 18/11 (+3,8%), pre-mercato del 19/11 circa 273,5 $. La spinta viene dall'IPO di Anthropic: la quota di Amazon (18 mld $ investiti) varrebbe circa 159 mld. Medie 20/50gg circa 257/255 $; massimo 20gg 275,34; massimo 6 mesi 287,20; ATR circa 11 $ (4,1%). Ingresso solo su conferma: una barra da 5 minuti chiude sopra 275,50 $ (circa 250 EUR) dopo le 15:45 italiane e il prezzo resta sopra. Stop 262 $ (circa 238 EUR). Obiettivo 302 $ (circa 275 EUR). Se apre in rialzo e scende sotto 268 $: niente acquisto. Più avanti, ingresso alternativo su un ritracciamento verso la media 20gg (circa 257 $).
+
 ## Portafoglio (solo informazione)
 
 - **Xiaomi (1810.HK).** Circa 48% del portafoglio, prezzo medio circa 3,96 EUR. Piano di riduzione in 6 rate mensili da circa 1.420 EUR (dicembre-maggio). Risultati del terzo trimestre il 24/11 alle 12:30 italiane. Avvisi a 3,69 EUR e 2,95 EUR.
