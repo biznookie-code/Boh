@@ -24,3 +24,18 @@ Obiettivo dell'utente: plusvalenze su azioni singole, compensabili con le minusv
 - **WDC.** DECISIONE DEL 20/11: l'utente la tiene a LUNGO TERMINE. Circa 670 EUR, costo circa 1.009 EUR (-33%); 258,50 $ il 20/11, sotto il minimo del mese. Regole concordate: non mediare finché non torna sopra la media 20gg (circa 324 $) per più giorni; non superare il 5% del portafoglio; niente stop-loss automatico; rivalutazione a ogni trimestrale (vendite, margini). Non proporre di venderla per motivi di prezzo, solo se peggiorano i fondamentali. Avviso informativo a circa 295 EUR (possibile inversione).
 - **INOD.** Circa 326 EUR. Avvisi a 29,5 EUR e 40,6 EUR.
 - **ETF Uranium & Nuclear (WNUC).** Avvisi a 32,50 EUR e 35,40 EUR.
+
+## Portafoglio al 20/11/2026 (dagli screenshot dell'utente, circa 24.840 EUR)
+
+- Xiaomi 11.248 EUR (-20,9%, circa 45%)
+- MSCI World Amundi (LU1681043599) 7.037 EUR (+1,7%)
+- iShares Core MSCI World (IE00B4L5Y983) 1.626 EUR (-3,0%): nuovo. L'utente ha venduto AI & Big Data e Global Real Estate per comprarlo; il piano di accumulo va qui.
+- Core MSCI EM IMI 1.004 EUR (-11,0%)
+- MSCI World Small Cap 819 EUR (-5,5%)
+- Western Digital 784 EUR (-29,4%): l'utente ha aggiunto circa 100 EUR, mediando; non aggiungere altro.
+- Uranium & Nuclear 600 EUR (-34,4%)
+- MSCI World Health Care 524 EUR (+13,5%)
+- Gilead 459 EUR (+0,4%), 3 azioni a 152,10
+- Nvidia 375 EUR (-17,2%): l'utente ha aggiunto circa 100 EUR, mediando; non aggiungere altro.
+- Innodata 286 EUR (-38,8%)
+- Marvell 75 EUR (-25,2%)
