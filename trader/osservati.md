@@ -21,6 +21,6 @@ Obiettivo dell'utente: plusvalenze su azioni singole, compensabili con le minusv
 
 - **Xiaomi (1810.HK).** Circa 48% del portafoglio, prezzo medio circa 3,96 EUR. Piano di riduzione in 6 rate mensili da circa 1.420 EUR (dicembre-maggio). Risultati del terzo trimestre il 24/11 alle 12:30 italiane. Avvisi a 3,69 EUR e 2,95 EUR.
 - **NVDA.** Circa 335 EUR. Avviso a circa 135 EUR (148,80 $).
-- **WDC.** Circa 730 EUR. Avvisi a 236 EUR e 295 EUR.
+- **WDC.** DECISIONE DEL 20/11: l'utente la tiene a LUNGO TERMINE. Circa 670 EUR, costo circa 1.009 EUR (-33%); 258,50 $ il 20/11, sotto il minimo del mese. Regole concordate: non mediare finché non torna sopra la media 20gg (circa 324 $) per più giorni; non superare il 5% del portafoglio; niente stop-loss automatico; rivalutazione a ogni trimestrale (vendite, margini). Non proporre di venderla per motivi di prezzo, solo se peggiorano i fondamentali. Avviso informativo a circa 295 EUR (possibile inversione).
 - **INOD.** Circa 326 EUR. Avvisi a 29,5 EUR e 40,6 EUR.
 - **ETF Uranium & Nuclear (WNUC).** Avvisi a 32,50 EUR e 35,40 EUR.
