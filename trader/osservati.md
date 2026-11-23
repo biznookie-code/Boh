@@ -64,3 +64,7 @@ Ingresso solo con conferma: il prezzo tiene la media 20gg e riparte, per esempio
 - **MAR – Marriott.** 414,32 $ il 23/11; media 20gg 415,3, media 50gg 385,0; massimo 433,30; ATR 10,2; +18% in 60 giorni, +40% in un anno. Ingresso circa 415 $ (circa 381 EUR), stop 394 $ (circa 361 EUR, -5%), obiettivo 1 433 $ (massimo), obiettivo 2 455 $ (circa 417 EUR, +9,6%). 1 azione.
 - **TRV – Travelers (assicurazioni).** 395,82 $ il 23/11; media 20gg 398,0, media 50gg 383,9; minimo 20gg 385,68; massimo 418; ATR 9,5; +36% in un anno; dividendo in aumento. Ingresso circa 396-398 $ (circa 364 EUR), stop 383 $ (circa 351 EUR, -3,5%), obiettivo 425 $ (circa 390 EUR, +7,3%). 1 azione.
 - Riserva: RSG – Republic Services (rifiuti) 246,13 $; media 20gg 246,3; stop 236; obiettivo 266. Attenzione al settore dopo l'incidente in discarica di WCN.
+
+## Deutz dal 24/11
+
+Il 23/11 ha chiuso a 7,97 (+3,7%), massimo 7,99, volume nella media; Deutsche Bank conferma "comprare" con obiettivo 14,50. Livello chiave: 7,98-8,00 (massimo del 19/11 e del 23/11). Segnale: una barra da 5 minuti chiude sopra 8,00 con volume e il prezzo resta sopra; stop sotto il minimo della prima mezz'ora del giorno, oppure sotto 7,75; obiettivo 2R e, più in là, 8,60-9,10. Circa 55-60 azioni con il profilo da 500 EUR, rischio massimo 25 EUR.
