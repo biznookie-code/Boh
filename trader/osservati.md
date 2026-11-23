@@ -46,6 +46,6 @@ Nota: settimana del 23/11 = Thanksgiving. Borsa USA chiusa giovedì 26/11 e mezz
 
 ## Aggiornamento 23/11 sera
 
-- Innodata: l'utente aveva mediato con circa 100 EUR (costo circa 569 EUR). Il 23/11, con il titolo a 33 $ (+17%), vende METÀ della posizione (circa 215 EUR, minusvalenza circa -69 EUR) e tiene la liquidità. Sulla metà rimasta: niente mediate; avvisi a circa 25,50 EUR (minimo di 27,84 $) e 34,70 EUR (media 20gg 37,78 $).
+- Innodata: l'utente aveva mediato con circa 100 EUR (costo circa 569 EUR). Il 23/11, con il titolo a 33 $ (+17%), ha venduto METÀ della posizione a 30,15 EUR (circa 214 EUR incassati, minusvalenza circa -70 EUR) e tiene la liquidità. Sulla metà rimasta: niente mediate; avvisi a circa 25,50 EUR (minimo di 27,84 $) e 34,70 EUR (media 20gg 37,78 $).
 - Nvidia: l'utente la tiene perché pensa che salirà ancora (in guadagno di circa +6,7% il 23/11). Avviso suggerito a circa 140 EUR (153 $).
-- Minusvalenze stimate: circa 722 + 69 = circa 790 EUR, dopo la vendita di metà Innodata.
+- Minusvalenze stimate: circa 722 + 70 = circa 792 EUR, dopo la vendita di metà Innodata.
