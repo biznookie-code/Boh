@@ -57,3 +57,10 @@ Nota: settimana del 23/11 = Thanksgiving. Borsa USA chiusa giovedì 26/11 e mezz
 - Tasse pagate sui guadagni degli ETF (non compensabili): circa 21 EUR nel 2025 e circa 157 EUR nel 2026. Imposta di bollo 2026: circa 40 EUR.
 - Commissioni totali: circa 630 EUR (2024: 32; 2025: 203; 2026: 394). Nel 2026: 325 acquisti e 69 vendite a 1 EUR; più circa 41 EUR di commissioni sulle ricariche con carta (2024-2025).
 - Xiaomi: 3.611,36 azioni, costo 14.219,64 EUR (prezzo medio circa 3,94 EUR).
+
+## Nuovi candidati swing (23/11 sera; massimo 3 posizioni swing in tutto, Gilead compresa)
+
+Ingresso solo con conferma: il prezzo tiene la media 20gg e riparte, per esempio una chiusura sopra la media 20gg dopo averla toccata, oppure al controllo delle 15:55 sopra il massimo dei primi 15 minuti. Cambio 1,09.
+- **MAR – Marriott.** 414,32 $ il 23/11; media 20gg 415,3, media 50gg 385,0; massimo 433,30; ATR 10,2; +18% in 60 giorni, +40% in un anno. Ingresso circa 415 $ (circa 381 EUR), stop 394 $ (circa 361 EUR, -5%), obiettivo 1 433 $ (massimo), obiettivo 2 455 $ (circa 417 EUR, +9,6%). 1 azione.
+- **TRV – Travelers (assicurazioni).** 395,82 $ il 23/11; media 20gg 398,0, media 50gg 383,9; minimo 20gg 385,68; massimo 418; ATR 9,5; +36% in un anno; dividendo in aumento. Ingresso circa 396-398 $ (circa 364 EUR), stop 383 $ (circa 351 EUR, -3,5%), obiettivo 425 $ (circa 390 EUR, +7,3%). 1 azione.
+- Riserva: RSG – Republic Services (rifiuti) 246,13 $; media 20gg 246,3; stop 236; obiettivo 266. Attenzione al settore dopo l'incidente in discarica di WCN.
