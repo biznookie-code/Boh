@@ -49,3 +49,11 @@ Nota: settimana del 23/11 = Thanksgiving. Borsa USA chiusa giovedì 26/11 e mezz
 - Innodata: l'utente aveva mediato con circa 100 EUR (costo circa 569 EUR). Il 23/11, con il titolo a 33 $ (+17%), ha venduto METÀ della posizione a 30,15 EUR (circa 214 EUR incassati, minusvalenza circa -70 EUR) e tiene la liquidità. Sulla metà rimasta: niente mediate; avvisi a circa 25,50 EUR (minimo di 27,84 $) e 34,70 EUR (media 20gg 37,78 $).
 - Nvidia: l'utente la tiene perché pensa che salirà ancora (in guadagno di circa +6,7% il 23/11). Avviso suggerito a circa 140 EUR (153 $).
 - Minusvalenze stimate: circa 722 + 70 = circa 792 EUR, dopo la vendita di metà Innodata.
+
+## Fiscale e costi (dall'esportazione di Trade Republic del 23/11/2026)
+
+- Regime amministrato: Trade Republic trattiene e compensa le tasse in automatico.
+- Minusvalenze disponibili stimate (metodo del costo medio, verificato sui costi delle posizioni aperte): circa 932 EUR, tutte del 2026, quindi valide fino al 31/12/2030.
+- Tasse pagate sui guadagni degli ETF (non compensabili): circa 21 EUR nel 2025 e circa 157 EUR nel 2026. Imposta di bollo 2026: circa 40 EUR.
+- Commissioni totali: circa 630 EUR (2024: 32; 2025: 203; 2026: 394). Nel 2026: 325 acquisti e 69 vendite a 1 EUR; più circa 41 EUR di commissioni sulle ricariche con carta (2024-2025).
+- Xiaomi: 3.611,36 azioni, costo 14.219,64 EUR (prezzo medio circa 3,94 EUR).
