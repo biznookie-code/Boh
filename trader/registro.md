@@ -34,9 +34,10 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 | 20/11/2026 | Venduti AI & Big Data e Global Real Estate, comprato iShares Core MSCI World | piccolo guadagno | circa 4,4 EUR di tasse (ETF) |
 | 20/11/2026 | Mediate: Nvidia +100 EUR, Western Digital +100 EUR | | da non ripetere |
 | 23/11/2026 | Mediata su Innodata +100 EUR, poi venduta metà a 30,15 EUR | -70,72 EUR | minusvalenza utilizzabile |
+| 24/11/2026 | Xiaomi: venduta mezza rata, circa 700 EUR (commissione 1 EUR), a circa 3,03 EUR (Hong Kong -5,7% prima dei risultati) | circa -210 EUR | minusvalenza utilizzabile; totale stimato circa 1.140 EUR |
 
 ## Commissioni dal 23/11/2026
 
 | Mese | Ordini | Commissioni | Note |
 |---|---|---|---|
-| novembre 2026 (dal 23) | 1 | 1 EUR | vendita metà Innodata |
+| novembre 2026 (dal 23) | 2 | 2 EUR | vendita metà Innodata; vendita mezza rata Xiaomi |

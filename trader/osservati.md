@@ -68,3 +68,8 @@ Ingresso solo con conferma: il prezzo tiene la media 20gg e riparte, per esempio
 ## Deutz dal 24/11
 
 Il 23/11 ha chiuso a 7,97 (+3,7%), massimo 7,99, volume nella media; Deutsche Bank conferma "comprare" con obiettivo 14,50. Livello chiave: 7,98-8,00 (massimo del 19/11 e del 23/11). Segnale: una barra da 5 minuti chiude sopra 8,00 con volume e il prezzo resta sopra; stop sotto il minimo della prima mezz'ora del giorno, oppure sotto 7,75; obiettivo 2R e, più in là, 8,60-9,10. Circa 55-60 azioni con il profilo da 500 EUR, rischio massimo 25 EUR.
+
+
+## 24/11: Xiaomi, mezza rata venduta
+
+Venduti circa 700 EUR prima dei risultati, a circa 3,03 EUR (prezzo da confermare), minusvalenza circa -210 EUR. Restano circa 3.380 azioni. Prossima rata: dicembre (circa 1.420 EUR, o 720 EUR per completare la prima). Ricavato da reinvestire in iShares Core MSCI World.
