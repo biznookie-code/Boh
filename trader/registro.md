@@ -29,6 +29,7 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 | Data apertura | Titolo | Tipo | Quantità | Prezzo entrata | Stop | Obiettivo | Data chiusura | Prezzo uscita | Risultato netto | Note |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 19/11/2026 | Gilead (GILD) | swing | 3 | 152,10 EUR | 143,00 | 168,50 | aperta | | | All'obiettivo: vendere 2 azioni e spostare lo stop a 152,10 |
+| 24/11/2026 | Travelers (TRV) | swing 1-3 giorni | 1,365374 | 366,20 EUR (500 EUR + 1 EUR commissione) | 358,00 | 380,80 | aperta | | | rischio circa 11 EUR + commissioni; guadagno all'obiettivo circa 20 EUR; giovedì 26 borsa USA chiusa |
 
 ## Altre operazioni rilevanti (fuori dal conteggio del recupero)
 
@@ -45,4 +46,4 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 
 | Mese | Ordini | Commissioni | Note |
 |---|---|---|---|
-| novembre 2026 (dal 23) | 3 | 3 EUR | vendita metà Innodata; vendita mezza rata Xiaomi; acquisto iShares |
+| novembre 2026 (dal 23) | 4 | 4 EUR | vendita metà Innodata; vendita mezza rata Xiaomi; acquisto iShares; acquisto Travelers |
