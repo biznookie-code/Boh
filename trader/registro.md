@@ -16,6 +16,17 @@ Il recupero si misura con cinque leve:
 
 Tutti i guadagni realizzati su azioni vanno in iShares Core MSCI World. In questo registro si annota anche quanto è stato reinvestito.
 
+## Piano di accumulo su Trade Republic (al 24/11/2026, senza commissioni)
+
+| ETF | Importo | Frequenza | Al mese |
+|---|---|---|---|
+| iShares Core MSCI World (IE00B4L5Y983) | 180 EUR | due volte al mese | 360 EUR |
+| iShares Core MSCI EM IMI (IE00BKM4GZ66) | 30 EUR | mensile | 30 EUR |
+| iShares MSCI World Small Cap (IE00BF4RFH31) | 30 EUR | mensile | 30 EUR |
+| **Totale** | | | **420 EUR al mese (circa 5.040 EUR all'anno)** |
+
+Prossima esecuzione: verso il 16/12/2026. Suggerito (non ancora attivo): Xtrackers MSCI World Health Care (IE00BM67HK77), circa 40 EUR al mese, per arrivare al 5% del portafoglio. Nel resoconto mensile: contare gli importi investiti con il piano e l'effetto sul peso di Xiaomi.
+
 ## Situazione di partenza (23/11/2026)
 
 - Portafoglio circa 26.140 EUR, costo circa 28.880 EUR (-9,5%).
