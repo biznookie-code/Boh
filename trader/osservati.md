@@ -73,3 +73,7 @@ Il 23/11 ha chiuso a 7,97 (+3,7%), massimo 7,99, volume nella media; Deutsche Ba
 ## 24/11: Xiaomi, mezza rata venduta
 
 Venduti alle 8:08 228,05 azioni a 3,0695 EUR (700 EUR, commissione 1 EUR, incassati 699 EUR), minusvalenza -201,78 EUR secondo Trade Republic. Restano circa 3.383,31 azioni, costo residuo circa 13.322 EUR (prezzo medio 3,94). Minusvalenze totali stimate circa 1.134 EUR. Prossima rata: dicembre (circa 1.420 EUR, o 720 EUR per completare la prima). Ricavato da reinvestire in iShares Core MSCI World.
+
+## 24/11: decisione dell'utente su Xiaomi
+
+L'utente NON vuole ridurre ancora Xiaomi se scende: la tiene a lungo termine, perché non vuole realizzare altre minusvalenze. Il piano di riduzione a rate è SOSPESO (non proporre più le rate mensili). Regole concordate: niente nuovi acquisti di Xiaomi (niente mediate); il peso si riduce con i nuovi risparmi sugli ETF (piano di accumulo su iShares Core MSCI World); revisione a ogni trimestrale. Se l'utente vorrà ridurre, preferire i rialzi (sopra 3,69 EUR) ai cali.
