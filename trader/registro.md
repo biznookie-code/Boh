@@ -53,6 +53,11 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 | 24/11/2026 | Xiaomi: venduta mezza rata alle 8:08, 228,050171 azioni a 3,0695 EUR = 700,00 EUR (commissione 1 EUR, incassati 699,00) | -201,78 EUR (dato di Trade Republic) | minusvalenza utilizzabile; totale stimato circa 1.134 EUR |
 | 24/11/2026 | iShares Core MSCI World: comprate 2,99992 quote a 125,675 EUR alle 11:07 (377,01 EUR + 1 EUR commissione = 378,01 EUR). Il resto del ricavato Xiaomi resta liquido | | |
 
+## Liquidità e note operative
+
+- 24/11 sera: liquidità stimata circa 34 EUR, dopo l'acquisto di Travelers per 501 EUR. Niente nuove operazioni finché non si chiude una posizione o arriva nuova liquidità.
+- 24/11: segnale mancato su TTWO (rottura alle 9:50 ET a 217,29 $, chiusura vicino a 225 $, +7,5%). Il controllo delle 15:55 ora verifica uno per uno tutti i titoli seguiti. Per TTWO, possibile ingresso su un ritorno verso 217-221 $; resistenza a 237,41 $.
+
 ## Commissioni dal 23/11/2026
 
 | Mese | Ordini | Commissioni | Note |
