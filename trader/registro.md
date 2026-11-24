@@ -53,6 +53,14 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 | 24/11/2026 | Xiaomi: venduta mezza rata alle 8:08, 228,050171 azioni a 3,0695 EUR = 700,00 EUR (commissione 1 EUR, incassati 699,00) | -201,78 EUR (dato di Trade Republic) | minusvalenza utilizzabile; totale stimato circa 1.134 EUR |
 | 24/11/2026 | iShares Core MSCI World: comprate 2,99992 quote a 125,675 EUR alle 11:07 (377,01 EUR + 1 EUR commissione = 378,01 EUR). Il resto del ricavato Xiaomi resta liquido | | |
 
+## Regole per le operazioni swing (decise il 24/11/2026)
+
+- Capitale per le operazioni swing: fino a 1.500 EUR, diviso in massimo 3 posizioni da circa 500 EUR ciascuna, in settori diversi.
+- Rischio massimo per posizione, dall'ingresso allo stop: 25 EUR. Rischio massimo totale con tutte le posizioni aperte: 75 EUR.
+- Niente aggiunte su una posizione già aperta (niente piramidi né mediate). Quando una posizione si chiude, i circa 500 EUR tornano disponibili per la prossima.
+- Guadagni realizzati: vanno su iShares Core MSCI World. Il capitale torna nel budget swing.
+- Per arrivare a 1.500 EUR serve nuova liquidità (circa 550 EUR oltre alle posizioni attuali).
+
 ## Liquidità e note operative
 
 - 24/11 sera: liquidità stimata circa 34 EUR, dopo l'acquisto di Travelers per 501 EUR. Regola dell'utente: segnalare SEMPRE tutti i segnali validi con il piano completo, anche con poca liquidità; l'utente decide se trovare i soldi.
