@@ -35,9 +35,10 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 | 20/11/2026 | Mediate: Nvidia +100 EUR, Western Digital +100 EUR | | da non ripetere |
 | 23/11/2026 | Mediata su Innodata +100 EUR, poi venduta metà a 30,15 EUR | -70,72 EUR | minusvalenza utilizzabile |
 | 24/11/2026 | Xiaomi: venduta mezza rata alle 8:08, 228,050171 azioni a 3,0695 EUR = 700,00 EUR (commissione 1 EUR, incassati 699,00) | -201,78 EUR (dato di Trade Republic) | minusvalenza utilizzabile; totale stimato circa 1.134 EUR |
+| 24/11/2026 | iShares Core MSCI World: comprate 2,99992 quote a 125,675 EUR alle 11:07 (377,01 EUR + 1 EUR commissione = 378,01 EUR). Il resto del ricavato Xiaomi resta liquido | | |
 
 ## Commissioni dal 23/11/2026
 
 | Mese | Ordini | Commissioni | Note |
 |---|---|---|---|
-| novembre 2026 (dal 23) | 2 | 2 EUR | vendita metà Innodata; vendita mezza rata Xiaomi |
+| novembre 2026 (dal 23) | 3 | 3 EUR | vendita metà Innodata; vendita mezza rata Xiaomi; acquisto iShares |
