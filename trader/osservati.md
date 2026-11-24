@@ -77,3 +77,4 @@ Venduti alle 8:08 228,05 azioni a 3,0695 EUR (700 EUR, commissione 1 EUR, incass
 ## 24/11: decisione dell'utente su Xiaomi
 
 L'utente NON vuole ridurre ancora Xiaomi se scende: la tiene a lungo termine, perché non vuole realizzare altre minusvalenze. Il piano di riduzione a rate è SOSPESO (non proporre più le rate mensili). Regole concordate: niente nuovi acquisti di Xiaomi (niente mediate); il peso si riduce con i nuovi risparmi sugli ETF (piano di accumulo su iShares Core MSCI World); revisione a ogni trimestrale. Se l'utente vorrà ridurre, preferire i rialzi (sopra 3,69 EUR) ai cali.
+- Regola dell'utente (24/11): tutti i guadagni realizzati con le azioni (trading e swing) vanno reinvestiti in iShares Core MSCI World (IE00B4L5Y983). Quando una posizione si chiude in guadagno, ricordarlo e indicare la cifra da investire (ordini da almeno 200 EUR o piano di accumulo, per contenere le commissioni).

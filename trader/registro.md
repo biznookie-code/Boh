@@ -12,6 +12,10 @@ Il recupero si misura con cinque leve:
 4. Andamento di Xiaomi, valore e piano di riduzione.
 5. Guadagni netti realizzati con trading e swing (commissioni comprese).
 
+## Regola di reinvestimento (24/11)
+
+Tutti i guadagni realizzati su azioni vanno in iShares Core MSCI World. In questo registro si annota anche quanto è stato reinvestito.
+
 ## Situazione di partenza (23/11/2026)
 
 - Portafoglio circa 26.140 EUR, costo circa 28.880 EUR (-9,5%).
