@@ -85,3 +85,6 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
   - AGGIORNAMENTO 25/11 sera: dopo il confronto sui 10 anni (rendimento del prezzo, che conta per la plusvalenza: RSG +16,2%/anno, BRK-B +13,5% senza dividendo, KO +9,0%, JNJ +9,1%, PG +7,5%) la proposta diventa Berkshire Hathaway B (US0846707026) + Republic Services (US7607591002) al posto di KO e PG, in attesa della scelta dell'utente.
     - BRK-B (579,58 $ = 527 EUR, SMA20 573,75 $ = 522 EUR): rata 1 250 EUR limite circa 527 EUR; rata 2 250 EUR limite 522 EUR. Revisione sotto circa 490 EUR (SMA100 522 $ circa 475 EUR).
     - RSG (255,05 $ = 232 EUR, SMA20 248,31 $ = 226 EUR; l'utente ha già avvisi a 234 e 225 EUR): rata 1 250 EUR limite circa 232 EUR; rata 2 250 EUR limite 226 EUR. Revisione sotto circa 205 EUR (SMA100 225 $).
+- 25/11 sera, lista "qualità ai minimi" (lungo termine, da comprare SOLO quando il prezzo ha smesso di scendere: sopra la media a 50 giorni con 3 mesi positivi):
+  - già in ripresa: Zoetis (ZTS, US98978V1035) 83,29 $ = 75,8 EUR, -36% dal massimo, +11% in 3 mesi; PepsiCo (PEP, US7134481081) 144,55 $ = 131,5 EUR, -15%; McDonald's (MCD) 285,33 $ = 259,6 EUR, -16%, RSI 71.
+  - ancora in discesa, da osservare: LVMH (MC.PA) 391 EUR -40%; Hermès -44%; Nike -46%; Novo Nordisk -36%; UnitedHealth -21%.
