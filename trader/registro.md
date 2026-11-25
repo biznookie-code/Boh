@@ -67,6 +67,7 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 - 24/11: segnale mancato su TTWO (rottura alle 9:50 ET a 217,29 $, chiusura vicino a 225 $, +7,5%). Il controllo delle 15:55 ora verifica uno per uno tutti i titoli seguiti. Per TTWO, possibile ingresso su un ritorno verso 217-221 $; resistenza a 237,41 $.
 
 - 25/11: Nvidia scesa a circa 139 EUR (avviso a 140 scattato). L'utente la tiene con uno stop-loss a 130 EUR (circa 142 $). Posizione circa 3,16 azioni, costo circa 453 EUR.
+- 25/11 15:39: Nvidia a 130,06 EUR (142,44 $, -8,3% nel giorno, Nasdaq -4%: inflazione PCE sopra le attese e ipotesi di Trump di una quota statale in Nvidia). Livello di 130 raggiunto; l'utente decide di NON vendere e di tenerla A LUNGO TERMINE (perdita latente circa -42 EUR). Regole come per Western Digital: niente mediate finché non torna sopra la media a 20 giorni, nessuno stop automatico, revisione ogni trimestre (prossimi risultati verso fine febbraio 2027), peso massimo circa 5% del portafoglio.
 
 ## Commissioni dal 23/11/2026
 
