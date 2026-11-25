@@ -78,3 +78,7 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 ## Da fare
 
 - 26/11 mattina: l'utente compra 500 EUR di iShares Core MSCI World (IE00B4L5Y983) con ordine limite tra le 9:30 e le 17:30 (prima rata del possibile PIC, deciso il 25/11 durante il calo: Nasdaq -4,1%, VIX 32,5, ETF circa 123,08 EUR). Nel briefing delle 8:24 indicare il prezzo limite. Dopo l'acquisto il terzo posto swing resta senza liquidità.
+- Lungo termine difensivo (deciso il 25/11): 500 EUR su Coca-Cola (KO) e 500 EUR su Procter & Gamble (PG), da tenere fino al 2030 e vendere in guadagno PRIMA del 31/12/2030 (scadenza delle minusvalenze 2026; vendere entro metà dicembre 2030), così la plusvalenza compensa le minusvalenze. Ingresso dopo le 15:30 di venerdì 27/11 o la settimana dopo (26/11 Wall Street chiusa).
+  - KO (prezzo 98,39 $ = 89,5 EUR, SMA20 96,66 $ = 88 EUR): rata 1 250 EUR limite circa 89,50 EUR; rata 2 250 EUR limite 88,00 EUR (media a 20 giorni).
+  - PG (174,09 $ = 158,4 EUR, massimo storico, SMA20 167,92 $ = 152,8 EUR): rata 1 250 EUR limite circa 158,50 EUR; rata 2 250 EUR limite 153,00 EUR.
+  - Nessuno stop automatico (posizione a lungo termine). Livelli di revisione: KO sotto 76,80 $ (circa 70 EUR), PG sotto 138,90 $ (circa 126 EUR), minimi di 6 mesi. Niente mediate sotto questi livelli.
