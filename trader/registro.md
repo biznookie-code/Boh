@@ -66,6 +66,8 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 - 24/11 sera: liquidità stimata circa 34 EUR, dopo l'acquisto di Travelers per 501 EUR. Regola dell'utente: segnalare SEMPRE tutti i segnali validi con il piano completo, anche con poca liquidità; l'utente decide se trovare i soldi.
 - 24/11: segnale mancato su TTWO (rottura alle 9:50 ET a 217,29 $, chiusura vicino a 225 $, +7,5%). Il controllo delle 15:55 ora verifica uno per uno tutti i titoli seguiti. Per TTWO, possibile ingresso su un ritorno verso 217-221 $; resistenza a 237,41 $.
 
+- 25/11: Nvidia scesa a circa 139 EUR (avviso a 140 scattato). L'utente la tiene con uno stop-loss a 130 EUR (circa 142 $). Posizione circa 3,16 azioni, costo circa 453 EUR.
+
 ## Commissioni dal 23/11/2026
 
 | Mese | Ordini | Commissioni | Note |
