@@ -74,3 +74,7 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 | Mese | Ordini | Commissioni | Note |
 |---|---|---|---|
 | novembre 2026 (dal 23) | 4 | 4 EUR | vendita metà Innodata; vendita mezza rata Xiaomi; acquisto iShares; acquisto Travelers |
+
+## Da fare
+
+- 26/11 mattina: l'utente compra 500 EUR di iShares Core MSCI World (IE00B4L5Y983) con ordine limite tra le 9:30 e le 17:30 (prima rata del possibile PIC, deciso il 25/11 durante il calo: Nasdaq -4,1%, VIX 32,5, ETF circa 123,08 EUR). Nel briefing delle 8:24 indicare il prezzo limite. Dopo l'acquisto il terzo posto swing resta senza liquidità.
