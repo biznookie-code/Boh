@@ -82,3 +82,6 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
   - KO (prezzo 98,39 $ = 89,5 EUR, SMA20 96,66 $ = 88 EUR): rata 1 250 EUR limite circa 89,50 EUR; rata 2 250 EUR limite 88,00 EUR (media a 20 giorni).
   - PG (174,09 $ = 158,4 EUR, massimo storico, SMA20 167,92 $ = 152,8 EUR): rata 1 250 EUR limite circa 158,50 EUR; rata 2 250 EUR limite 153,00 EUR.
   - Nessuno stop automatico (posizione a lungo termine). Livelli di revisione: KO sotto 76,80 $ (circa 70 EUR), PG sotto 138,90 $ (circa 126 EUR), minimi di 6 mesi. Niente mediate sotto questi livelli.
+  - AGGIORNAMENTO 25/11 sera: dopo il confronto sui 10 anni (rendimento del prezzo, che conta per la plusvalenza: RSG +16,2%/anno, BRK-B +13,5% senza dividendo, KO +9,0%, JNJ +9,1%, PG +7,5%) la proposta diventa Berkshire Hathaway B (US0846707026) + Republic Services (US7607591002) al posto di KO e PG, in attesa della scelta dell'utente.
+    - BRK-B (579,58 $ = 527 EUR, SMA20 573,75 $ = 522 EUR): rata 1 250 EUR limite circa 527 EUR; rata 2 250 EUR limite 522 EUR. Revisione sotto circa 490 EUR (SMA100 522 $ circa 475 EUR).
+    - RSG (255,05 $ = 232 EUR, SMA20 248,31 $ = 226 EUR; l'utente ha già avvisi a 234 e 225 EUR): rata 1 250 EUR limite circa 232 EUR; rata 2 250 EUR limite 226 EUR. Revisione sotto circa 205 EUR (SMA100 225 $).
