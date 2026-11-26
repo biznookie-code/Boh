@@ -23,7 +23,8 @@ Tutti i guadagni realizzati su azioni vanno in iShares Core MSCI World. In quest
 | iShares Core MSCI World (IE00B4L5Y983) | 180 EUR | due volte al mese | 360 EUR |
 | iShares Core MSCI EM IMI (IE00BKM4GZ66) | 30 EUR | mensile | 30 EUR |
 | iShares MSCI World Small Cap (IE00BF4RFH31) | 30 EUR | mensile | 30 EUR |
-| **Totale** | | | **420 EUR al mese (circa 5.040 EUR all'anno)** |
+| Xtrackers Nasdaq 100 1C (IE00BMFKG444), oppure iShares Nasdaq 100 (IE00B53SZB19) se Xtrackers non ha il piano | 60 EUR | mensile (dal 26/11/2026, deciso dall'utente) | 60 EUR |
+| **Totale** | | | **480 EUR al mese (circa 5.760 EUR all'anno)** |
 
 Prossima esecuzione: verso il 16/12/2026. Suggerito (non ancora attivo): Xtrackers MSCI World Health Care (IE00BM67HK77), circa 40 EUR al mese, per arrivare al 5% del portafoglio. Nel resoconto mensile: contare gli importi investiti con il piano e l'effetto sul peso di Xiaomi.
 
@@ -90,3 +91,9 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
   - ancora in discesa, da osservare: LVMH (MC.PA) 391 EUR -40%; Hermès -44%; Nike -46%; Novo Nordisk -36%; UnitedHealth -21%.
 - 25/11 sera, CONFERMATO dall'utente: piano a lungo termine con Berkshire Hathaway B + Republic Services (500 EUR ciascuna, livelli sopra) e, come quarta posizione satellite, Zoetis (ZTS, US98978V1035): 300-400 EUR SOLO dopo aver completato iShares, Berkshire e Republic Services. Rata 1 200 EUR limite circa 76 EUR (83,47 $); rata 2 200 EUR limite circa 71 EUR (SMA50 77,68 $). Revisione sotto circa 62,50 EUR (minimo di 6 mesi 68,77 $), niente mediate. Dividendo circa 2,5%. Risultati verso metà febbraio 2027. Vendita entro metà dicembre 2030.
 - 25/11 22:00: l'utente decide una SPECULAZIONE da 100 EUR su GoPro (GPRO, US38268T1034): acquisizione annunciata da Starman Optical a 1,14 $ in contanti (+ circa 10% della nuova società), scadenza rinviata al 31/03/2027; chiusura 25/11 0,547 $ (circa 0,50 EUR), il mercato prezza circa 1 probabilità su 3 di chiusura. Ordine limite 0,50 EUR, meglio venerdì 27/11 dopo le 15:30. Max 100 EUR, niente mediate, nessuno stop (evento binario). Uscita: all'incasso del prezzo di acquisizione, oppure vendita se il prezzo supera circa 1,05 $. Esito buono circa +105 EUR (compensati); esito cattivo -50/-100 EUR.
+
+## Piano Nasdaq 100 (deciso il 26/11/2026, orizzonte 5 anni)
+
+- 60 EUR al mese (non di più, decisione dell'utente) su Xtrackers Nasdaq 100 1C (TER 0,20%). Avvio subito: Nasdaq 100 a -16,6% dal massimo, -12% in 3 mesi; ETF circa 55,38 EUR (-14% dal massimo).
+- Regole: non fermare mai il piano nei crolli; se il Nasdaq supera il 25% della parte in ETF, nuovi soldi sull'iShares World; uscita graduale dal quarto anno se servono i soldi; guadagni tassati 26% e non compensabili; niente nuovi titoli tech singoli nei satelliti.
+- Stima su 60 EUR/mese (3.600 EUR versati in 5 anni): realistico circa 4.500-4.750 EUR; sfavorevole 2.400-3.300 EUR; favorevole 5.400 EUR e oltre.
