@@ -16,17 +16,18 @@ Il recupero si misura con cinque leve:
 
 Tutti i guadagni realizzati su azioni vanno in iShares Core MSCI World. In questo registro si annota anche quanto è stato reinvestito.
 
-## Piano di accumulo su Trade Republic (al 24/11/2026, senza commissioni)
+## Piano di accumulo su Trade Republic (aggiornato il 26/11/2026, senza commissioni)
 
 | ETF | Importo | Frequenza | Al mese |
 |---|---|---|---|
-| iShares Core MSCI World (IE00B4L5Y983) | 180 EUR | due volte al mese | 360 EUR |
+| iShares Core MSCI World (IE00B4L5Y983) | 170 EUR | due volte al mese | 340 EUR |
+| Nasdaq 100 USD (Acc) (Xtrackers IE00BMFKG444 o iShares IE00B53SZB19: da confermare con l'ISIN) | 60 EUR | mensile | 60 EUR |
+| Xtrackers MSCI World Health Care (IE00BM67HK77) | 15 EUR | due volte al mese | 30 EUR |
 | iShares Core MSCI EM IMI (IE00BKM4GZ66) | 30 EUR | mensile | 30 EUR |
 | iShares MSCI World Small Cap (IE00BF4RFH31) | 30 EUR | mensile | 30 EUR |
-| Xtrackers Nasdaq 100 1C (IE00BMFKG444), oppure iShares Nasdaq 100 (IE00B53SZB19) se Xtrackers non ha il piano | 60 EUR | mensile (dal 26/11/2026, deciso dall'utente) | 60 EUR |
-| **Totale** | | | **480 EUR al mese (circa 5.760 EUR all'anno)** |
+| **Totale** | | | **490 EUR al mese (circa 5.880 EUR all'anno)** |
 
-Prossima esecuzione: verso il 16/12/2026. Suggerito (non ancora attivo): Xtrackers MSCI World Health Care (IE00BM67HK77), circa 40 EUR al mese, per arrivare al 5% del portafoglio. Nel resoconto mensile: contare gli importi investiti con il piano e l'effetto sul peso di Xiaomi.
+Modificato dall'utente il 26/11 per renderlo sostenibile: World da 360 a 340 EUR, aggiunti Nasdaq 100 (60) e Health Care (30). Prossima esecuzione: verso il 16/12/2026 (screenshot: tra 20 giorni). Nel resoconto mensile: contare gli importi investiti con il piano e l'effetto sul peso di Xiaomi.
 
 ## Situazione di partenza (23/11/2026)
 
