@@ -20,14 +20,14 @@ Tutti i guadagni realizzati su azioni vanno in iShares Core MSCI World. In quest
 
 | ETF | Importo | Frequenza | Al mese |
 |---|---|---|---|
-| iShares Core MSCI World (IE00B4L5Y983) | 170 EUR | due volte al mese | 340 EUR |
-| Nasdaq 100 USD (Acc) (Xtrackers IE00BMFKG444 o iShares IE00B53SZB19: da confermare con l'ISIN) | 60 EUR | mensile | 60 EUR |
+| iShares Core MSCI World (IE00B4L5Y983) | 160 EUR | due volte al mese | 320 EUR |
+| Nasdaq 100 USD (Acc) (Xtrackers IE00BMFKG444 o iShares IE00B53SZB19: da confermare con l'ISIN) | 50 EUR | mensile | 50 EUR |
 | Xtrackers MSCI World Health Care (IE00BM67HK77) | 15 EUR | due volte al mese | 30 EUR |
 | iShares Core MSCI EM IMI (IE00BKM4GZ66) | 30 EUR | mensile | 30 EUR |
 | iShares MSCI World Small Cap (IE00BF4RFH31) | 30 EUR | mensile | 30 EUR |
-| **Totale** | | | **490 EUR al mese (circa 5.880 EUR all'anno)** |
+| **Totale** | | | **460 EUR al mese (circa 5.520 EUR all'anno)** |
 
-Modificato dall'utente il 26/11 per renderlo sostenibile: World da 360 a 340 EUR, aggiunti Nasdaq 100 (60) e Health Care (30). Prossima esecuzione: verso il 16/12/2026 (screenshot: tra 20 giorni). Nel resoconto mensile: contare gli importi investiti con il piano e l'effetto sul peso di Xiaomi.
+Modificato dall'utente il 26/11 per renderlo sostenibile: World da 360 a 320 EUR, aggiunti Nasdaq 100 (50) e Health Care (30). Prossima esecuzione: verso il 16/12/2026 (screenshot: tra 20 giorni). Nel resoconto mensile: contare gli importi investiti con il piano e l'effetto sul peso di Xiaomi.
 
 ## Situazione di partenza (23/11/2026)
 
@@ -95,6 +95,6 @@ Il risultato è netto delle commissioni di acquisto e vendita (1 EUR ciascuna). 
 
 ## Piano Nasdaq 100 (deciso il 26/11/2026, orizzonte 5 anni)
 
-- 60 EUR al mese (non di più, decisione dell'utente) su Xtrackers Nasdaq 100 1C (TER 0,20%). Avvio subito: Nasdaq 100 a -16,6% dal massimo, -12% in 3 mesi; ETF circa 55,38 EUR (-14% dal massimo).
+- 50 EUR al mese (ridotto dall'utente da 60 il 26/11) su Xtrackers Nasdaq 100 1C (TER 0,20%). Avvio subito: Nasdaq 100 a -16,6% dal massimo, -12% in 3 mesi; ETF circa 55,38 EUR (-14% dal massimo).
 - Regole: non fermare mai il piano nei crolli; se il Nasdaq supera il 25% della parte in ETF, nuovi soldi sull'iShares World; uscita graduale dal quarto anno se servono i soldi; guadagni tassati 26% e non compensabili; niente nuovi titoli tech singoli nei satelliti.
 - Stima su 60 EUR/mese (3.600 EUR versati in 5 anni): realistico circa 4.500-4.750 EUR; sfavorevole 2.400-3.300 EUR; favorevole 5.400 EUR e oltre.
